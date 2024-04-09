@@ -12,7 +12,7 @@
 - clean_data.ipynb: File notebook chứa mã nguồn clean raw_data
 - visualization.ipynb: File notebook chứa mã nguồn trực quan hóa dữ liệu
 - kpop.ipynb: File notebook tổng hợp
-## 3. Hưỡng dẫn chạy chương trình
+## 3. Hướng dẫn chạy chương trình
 - Cài đặt các thư viện cần cho mã nguồn
 - Chạy các file: crawl_data.ipynb, clean_data.ipynb, visualization.ipynb 
 - Chạy file kpop.ipynb để thay thế cho 3 file trên
